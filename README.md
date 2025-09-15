@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter
 
 A modern Flutter-based mobile application utilizing the latest mobile development technologies and tools for building responsive cross-platform applications.
@@ -103,3 +104,7 @@ flutter build apk --release
 # For iOS
 flutter build ios --release
 ```
+=======
+# Krishimitra
+A Flutter-based mobile application designed to empower Telugu-speaking farmers with AI-powered agricultural assistance. It helps farmers ask questions using text, voice, or images, get real-time crop tips, analyze plant leaf diseases, and track their recent farming activity — all in their native language.
+>>>>>>> 0a3537b9f9a5dc9e711f166d37666b8f84c86639
