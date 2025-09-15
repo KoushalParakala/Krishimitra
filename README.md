@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flutter
 
 A modern Flutter-based mobile application utilizing the latest mobile development technologies and tools for building responsive cross-platform applications.
@@ -110,5 +109,5 @@ flutter build apk --release
 # For iOS
 flutter build ios --release
 ```
-=======
+
 >>0a3537b9f9a5dc9e711f166d37666b8f84c86639
